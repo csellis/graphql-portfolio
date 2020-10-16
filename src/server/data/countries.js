@@ -1,11 +1,4 @@
 module.exports = [
-  'Portugal',
-  'Spain',
-  'Germany',
-  'Netherlands',
-  'Poland',
-  'Austria',
+  'United States',
   'United Kingdom',
-  'France',
-  'Switzerland'
 ]

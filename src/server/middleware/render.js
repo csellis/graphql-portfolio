@@ -36,21 +36,6 @@ function render(req, res) {
             </noscript>
           <script src="${VENDOR_BUNDLE}"></script>
           <script src="${CLIENT_BUNDLE}"></script>
-          <script>
-            (function(a, h, d, c, g, f) {
-                a.GoogleAnalyticsObject = c;
-                a[c] || (a[c] = function() {
-                    (a[c].q = a[c].q || []).push(arguments)
-                });
-                a[c].l = +new Date;
-                g = h.createElement(d);
-                f = h.getElementsByTagName(d)[0];
-                g.src = "//www.google-analytics.com/analytics.js";
-                f.parentNode.insertBefore(g, f)
-            }(window, document, "script", "ga"));
-            ga("create", "UA-37411302-1");
-            ga("send", "pageview");
-        </script>
         </body>
       </html>
     `)

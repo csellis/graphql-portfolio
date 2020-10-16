@@ -1,6 +1,6 @@
 const defaultQuery = `
   # Yellow
-  # My name is Sara and I am Front End Developer from Portugal
+  # My name is Chris and I am Front End Developer from Raleigh
   # I made this GraphQL API as my page because everyone loves GraphQL
   # Also it's waaay easier to update like this.
   # Check out the Docs and here is a sample query

@@ -56,7 +56,8 @@ const resolvers = {
         date: format(talk.date, 'DD/MM/YY')
       })),
     projects: () => data.projects,
-    speakerInfo: () => data.speakerInfo
+    speakerInfo: () => data.speakerInfo,
+    photo: () => data.photo
   }
 }
 
